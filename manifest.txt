@@ -1,0 +1,3 @@
+Main-Class: edu.virginia.lab1test.LabOneGame
+Class-Path: bin/
+
